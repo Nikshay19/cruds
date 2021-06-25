@@ -1,0 +1,18 @@
+.empcards {
+  border-style: dashed;
+  position: relative;
+  left: 9em;
+  width: auto;
+  height: auto;
+  display: grid;
+  grid-template-columns: auto auto;
+  padding: 20px;
+  row-gap: 1em;
+  column-gap: 1em;
+  max-width: 52em;
+}
+
+.empdetails{
+  display: grid;
+  grid-template-columns: auto auto;
+}
